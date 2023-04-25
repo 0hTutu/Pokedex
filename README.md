@@ -1,2 +1,2 @@
 # Pokedex
-prototipo de Pokedex com JavaScript, HTML e CSS
+Uma Pokedex feita inteiramente com JavaScript, HTML e CSS!
