@@ -1,2 +1,2 @@
 # Pokedex
-Uma Pokedex feita inteiramente com JavaScript, HTML e CSS inspirado em um vídeo do Manual do Dev!
+Uma Pokedex feita JavaScript, HTML/CSS e utilizando a API do PokeAPI. Inspirado em um vídeo do Manual do Dev!
